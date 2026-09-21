@@ -1,0 +1,32 @@
+id,name,type,location,latitude,longitude,description,approved
+hallene-gateway,Hallene Gateway,Campus Landscape,"Urbana, IL 61801",40.11515,-88.22273,"Campus gateway green space.",TRUE
+horse-research-farm,Horse Research Farm,University / Farm,"Urbana, IL",40.08463,-88.21608,"University research farm and open land.",TRUE
+mt-hope-cemetery,Mt Hope Cemetery,Cemetery,"Urbana, IL",40.09621,-88.20853,"Cemetery with substantial landscaped and open areas.",TRUE
+soccer-field-2,Soccer Field 2,Recreation,"Urbana, IL",40.10451,-88.21066,"Outdoor recreation field.",TRUE
+soccer-field,Soccer Field,Recreation,"Champaign, IL 61820",40.10555,-88.21013,"Outdoor recreation field.",TRUE
+basketball-courts,Basketball Courts,Recreation,"Urbana, IL",40.10278,-88.21443,"Outdoor basketball courts.",TRUE
+volleyball-courts,Volleyball Courts,Recreation,"Urbana, IL",40.10226,-88.21372,"Outdoor volleyball courts.",TRUE
+campus-rec-outdoor-center,Campus Rec Outdoor Center,Recreation,"Urbana, IL",40.10285,-88.21263,"Outdoor recreation area.",TRUE
+crystal-lake-park,Crystal Lake Park,Park,"Urbana, IL",40.13493,-88.19653,"Large public park and lake area.",TRUE
+west-side-park,West Side Park,Park,"Champaign, IL",40.11777,-88.26738,"Public neighborhood park.",TRUE
+mattis-park,Mattis Park,Park,"Champaign, IL",40.11938,-88.26808,"Public neighborhood park.",TRUE
+meadowbrook-park,Meadowbrook Park,Park,"Urbana, IL",40.08737,-88.18351,"Large public park with gardens and trails.",TRUE
+busey-woods,Busey Woods,Natural Area,"Urbana, IL",40.13731,-88.19727,"Wooded natural area.",TRUE
+anita-purves-nature-center,Anita Purves Nature Center,Natural Area,"Urbana, IL",40.13818,-88.19807,"Nature center and surrounding natural area.",TRUE
+boneyard-greenway,Boneyard Greenway,Greenway,"Urbana, IL",40.11347,-88.21812,"Greenway corridor.",TRUE
+red-oak-rain-garden,The Red Oak Rain Garden,Rain Garden,"Urbana, IL",40.10303,-88.21886,"Rain garden demonstrating stormwater management.",TRUE
+hessel-park,Hessel Park,Park,"Champaign, IL",40.10731,-88.27461,"Public neighborhood park.",TRUE
+helms-park,Helms Park,Park,"Champaign, IL",40.11534,-88.28215,"Public neighborhood park.",TRUE
+dorner-drive-playing-fields,Dorner Drive Playing Fields,Recreation,"Urbana, IL",40.09666,-88.19619,"Outdoor playing fields.",TRUE
+carle-park,Carle Park,Park,"Urbana, IL",40.10939,-88.20768,"Public park.",TRUE
+kari-walkway,Dr. Frank W. Kari Walkway,Botanical Garden,"Urbana, IL",40.10153,-88.22446,"Landscaped botanical walkway.",TRUE
+idea-garden,Idea Garden,Garden,"Urbana, IL",40.10022,-88.22551,"Public demonstration garden.",TRUE
+conservatory,University of Illinois Conservatory and Plant Collection,Botanical Garden,"Urbana, IL",40.10197,-88.22473,"University plant collection and conservatory.",TRUE
+japan-house,"Japan House, University of Illinois at Urbana-Champaign",Cultural Landscape,"Urbana, IL",40.09974,-88.21881,"Garden and cultural landscape.",TRUE
+illini-grove,Illini Grove,Woodland,"Urbana, IL",40.10050,-88.21953,"Wooded campus outdoor area.",TRUE
+south-quad,South Quad,Campus Landscape,"Urbana, IL",40.10218,-88.22700,"Campus green and gathering space.",TRUE
+uiuc-arboretum,University of Illinois Arboretum,Arboretum,"Urbana, IL",40.10102,-88.21799,"University arboretum and landscape collection.",TRUE
+north-quad,North Quad,Campus Landscape,"Urbana, IL",40.10814,-88.22686,"Campus green and gathering space.",TRUE
+main-quad,Main Quad,Campus Landscape,"Urbana, IL",40.10369,-88.22732,"Central campus green space.",TRUE
+bardeen-quadrangle,Bardeen Quadrangle,Campus Landscape,"Urbana, IL",40.11202,-88.22599,"Campus quadrangle and outdoor space.",TRUE
+scott-park,Scott Park,Park,"Urbana, IL",40.10557,-88.21398,"Public park.",TRUE
