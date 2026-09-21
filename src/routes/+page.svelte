@@ -194,11 +194,10 @@ $: if (map && leaflet && filtered) {
   <div>
     <div class="eyebrow">ABOUT</div>
     <h2>Questions or feedback?</h2>
-    <p>Illini Green is maintained by the ISG Committee on Environmental Sustainability. Reach out with comments, corrections, or ideas about any listed space.</p>
+    <p>Illini Green is maintained by the Illinois Student Government Committee on Environmental Sustainability. Reach out with comments, corrections, or ideas about any listed space.</p>
   </div>
   <div class="action-cards">
     <a href="mailto:ISG-SustainabilityChairperson@illinois.edu" class="action-card"><span>✉️</span><div><strong>Email the ISG Sustainability Chair</strong><small>ISG-SustainabilityChairperson@illinois.edu</small></div><b>→</b></a>
-    <!-- Add a second .action-card here for the coordinator's email once you have it — same shape as the one above. -->
     <a href="mailto:isg-studentlifecoordinator@illinois.edu" class="action-card"><span>✉️</span><div><strong>Email the ISG Sustainability Coordinator</strong><small>ISG-StudentLifeCoordinator@illinois.edu</small></div><b>→</b></a>
     <a href="https://isg.illinois.edu/about" target="_blank" rel="noopener" class="action-card"><span>📅</span><div><strong>Come to the Environmental Sustainability Committee</strong><small>See the current schedule on the ISG website</small></div><b>→</b></a>
   </div>
